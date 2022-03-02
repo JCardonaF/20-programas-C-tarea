@@ -1,0 +1,14 @@
+﻿Compilación iniciada a las 1/03/2022 20:21:12.
+     1>Proyecto "D:\Desktop\Programacion POO\20 programas en C++\20 programas\20 programas\20 programas.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\20 programas.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "20 programas.cpp"
+         20 programas.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Desktop\Programacion POO\20 programas en C++\20 programas\Debug\20 programas.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Desktop\Programacion POO\20 programas en C++\20 programas\Debug\20 programas.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Desktop\Programacion POO\20 programas en C++\20 programas\Debug\20 programas.lib" /MACHINE:X86 "Debug\20 programas.obj"
+         Debug\stdafx.obj
+         20 programas.vcxproj -> D:\Desktop\Programacion POO\20 programas en C++\20 programas\Debug\20 programas.exe
+     1>Compilación del proyecto terminada "D:\Desktop\Programacion POO\20 programas en C++\20 programas\20 programas\20 programas.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:02.25
